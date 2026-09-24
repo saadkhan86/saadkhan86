@@ -43,7 +43,7 @@ I'm a Backend Engineer with **2+ years of hands-on experience** building backend
 ## Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,php,java,cpp" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,php,sql,cpp" />
 </p>
 
 ---
