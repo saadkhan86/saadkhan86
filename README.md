@@ -7,14 +7,17 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Backend+Engineer;Node.js+%7C+TypeScript+%7C+Fastify;PostgreSQL+%7C+MongoDB+%7C+Redis;AI+%7C+Automation+%7C+Computer+Vision;Building+Scalable+Backend+Systems;Building.+Learning.+Improving." alt="Typing SVG" />
 
 <p>
-  <a href="https://github.com/saadkhan86">
-    <img src="https://img.shields.io/github/followers/saadkhan86?label=Followers&style=flat&logo=github" />
+  <a href="https://www.linkedin.com/in/saad-muhammad-bin-ramzan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://saadmuhammad.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit?style=flat&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:sk8613013@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/saadkhan86/">
+    <img src="https://img.shields.io/badge/Instagram-E440?style=flat&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -43,7 +46,7 @@ I'm a Backend Engineer with **2+ years of hands-on experience** building backend
 ## Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,php,sql,cpp" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,php,cpp" />
 </p>
 
 ---
