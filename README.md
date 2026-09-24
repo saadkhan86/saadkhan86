@@ -1,10 +1,22 @@
 <div align="center">
 
-# Hi, I'm Saad
+# Hi, I'm Saad Muhammad
 
-### MERN Stack Engineer | Backend Engineer | Node.js | TypeScript | AI & Automation
+### Backend Engineer | Node.js | TypeScript | AI & Automation
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Engineer;Node.js+%7C+TypeScript+%7C+Fastify;PostgreSQL+%7C+MongoDB+%7C+Redis;AI+%26+Automation+Enthusiast;Building.+Learning.+Improving." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Backend+Engineer;Node.js+%7C+TypeScript+%7C+Fastify;PostgreSQL+%7C+MongoDB+%7C+Redis;AI+%7C+Automation+%7C+Computer+Vision;Building+Scalable+Backend+Systems;Building.+Learning.+Improving." alt="Typing SVG" />
+
+<p>
+  <a href="https://github.com/saadkhan86">
+    <img src="https://img.shields.io/github/followers/saadkhan86?label=Followers&style=flat&logo=github" />
+  </a>
+  <a href="https://saadmuhammad.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:sk8613013@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
@@ -12,130 +24,91 @@
 
 ## About Me
 
-I'm a Backend Engineer with **2+ years of hands-on experience** building backend systems, APIs, SaaS applications, and automation workflows.
+I'm a Backend Engineer with **2+ years of hands-on experience** building backend systems, REST APIs, SaaS applications, automation workflows, and AI-powered features.
 
-* Currently building **OrbitDrive** — a multi-tenant B2B SaaS backend
-* Exploring **AI, LLMs, Semantic Search & Computer Vision**
-* Interested in scalable backend architecture and distributed systems
-* Building automation workflows with **n8n**
-* Working with **Python & FastAPI** for AI and backend projects
-* Open to **Remote Backend / Software Engineering opportunities**
-* Based in **Pakistan**
+- Currently building **OrbitDrive**, a multi-tenant B2B SaaS backend
+- Focused on **Node.js, TypeScript, Fastify, PostgreSQL, MongoDB and Redis**
+- Experienced with authentication, authorization, RBAC and multi-tenant systems
+- Building background processing with **Redis and BullMQ**
+- Exploring **LLMs, Semantic Search and AI integrations**
+- Working with **Python and FastAPI** for AI and backend projects
+- Building workflow automation with **n8n**
+- Exploring **Computer Vision with YOLO and OpenCV**
+- Interested in scalable backend architecture and distributed systems
+- Open to **Remote Backend / Software Engineering opportunities**
+- Based in Pakistan
 
 ---
 
-## Tech Stack
-
-### Backend
+## Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,typescript,express,fastify,python,fastapi" />
-</p>
-
-### Databases & Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind" />
-</p>
-
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,aws,firebase" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,php,java,cpp" />
 </p>
 
 ---
 
-## Featured Project
+## Backend & APIs
 
-### OrbitDrive
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastify,nestjs,python,fastapi" />
+</p>
 
-**Multi-Tenant B2B SaaS Backend**
-
-Building OrbitDrive with a production-focused architecture:
-
-```text
-Fastify
-   ↓
-Controller
-   ↓
-Service
-   ↓
-Repository
-   ↓
-PostgreSQL
-```
-
-### Key Concepts
-
-* JWT Authentication
-* Multi-Tenancy
-* RBAC
-* Email Verification
-* Organization Invitations
-* Redis & BullMQ
-* PostgreSQL + Drizzle ORM
-* Zod Validation
-* Repository → Service → Controller Architecture
+- REST APIs
+- Authentication & Authorization
+- JWT
+- RBAC
+- Multi-Tenant Architecture
+- WebSockets / Socket.IO
+- Background Jobs
+- Queues & Workers
+- API Validation
+- Error Handling
+- Third-Party API Integrations
 
 ---
 
-## AI & Automation
+## Databases & Infrastructure
 
-I'm exploring the intersection of backend engineering and AI.
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker" />
+</p>
 
-```text
-AI Integrations
-      │
-      ├── LLMs
-      ├── Semantic Search
-      ├── Computer Vision
-      ├── Python / FastAPI
-      └── n8n Automation
-```
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saadkhan86&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadkhan86&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
+- PostgreSQL
+- MongoDB
+- MySQL
+- Redis
+- Drizzle ORM
+- Mongoose
+- Database Design
+- Indexing
+- Transactions
+- Caching
 
 ---
 
-## Connect With Me
+## Frontend
 
-<div align="center">
-
-<a href="https://github.com/saadkhan86">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://saadmuhammad.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:sk8613013@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
+</p>
 
 ---
 
-<div align="center">
+## AI, Automation & Computer Vision
 
-### Building. Learning. Improving.
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi" />
+</p>
 
-</div>
+AI & Automation
+│
+├── LLM Integrations
+├── Semantic Search
+├── Embeddings
+├── RAG Workflows
+├── Computer Vision
+├── YOLO
+├── OpenCV
+├── Python / FastAPI
+└── n8n Automation
