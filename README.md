@@ -54,7 +54,7 @@ I'm a Backend Engineer with **2+ years of hands-on experience** building backend
 ## Backend & APIs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastify,nestjs,python,fastapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi" />
 </p>
 
 - REST APIs
@@ -104,14 +104,3 @@ I'm a Backend Engineer with **2+ years of hands-on experience** building backend
   <img src="https://skillicons.dev/icons?i=python,fastapi" />
 </p>
 
-AI & Automation
-│
-├── LLM Integrations
-├── Semantic Search
-├── Embeddings
-├── RAG Workflows
-├── Computer Vision
-├── YOLO
-├── OpenCV
-├── Python / FastAPI
-└── n8n Automation
