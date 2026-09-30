@@ -4,7 +4,7 @@
 
 ### Backend Engineer | Node.js | TypeScript | AI & Automation
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Backend+Engineer;Node.js+%7C+TypeScript+%7C+Fastify;PostgreSQL+%7C+MongoDB+%7C+Redis;AI+%7C+Automation+%7C+Computer+Vision;Building+Scalable+Backend+Systems;Building.+Learning.+Improving." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer;Backend+Engineer;Node.js+%7C+TypeScript+%7C+Fastify;PostgreSQL+%7C+MongoDB+%7C+Redis;AI+%7C+Automation+%7C+Computer+Vision;Building+Scalable+Backend+Systems;Building.+Learning.+Improving." alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/saad-muhammad-bin-ramzan/">
