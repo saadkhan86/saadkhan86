@@ -27,10 +27,11 @@
 I'm a **Full Stack developer with a strong focus on AI and backend engineering**, based in Pakistan 🇵🇰. I build scalable APIs, secure authentication systems, AI-driven automation, and computer vision pipelines, and I deliver production-ready solutions for freelance clients.
 
 - 🔭 Building backend systems with **Node.js, Express, MongoDB, FastAPI**
-- 🤖 Working on **computer vision & AI** (object detection, tracking, video analytics)
+- 🤖 Working on **AI Backend System** (RBAC, CRM, Lead generation)
 - ⚙️ Automating workflows with **n8n**
 - 🌱 Constantly learning and exploring new technologies
 - 💼 Available for freelance work on **Fiverr, Upwork** and other platforms
+- 🔐 Passionate about **cybersecurity**: secure authentication, API security and ethical hacking
 
 ---
 
@@ -38,12 +39,12 @@ I'm a **Full Stack developer with a strong focus on AI and backend engineering**
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,php,cpp" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python" alt="Languages" />
 </p>
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,firebase" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,firebase" alt="Backend" />
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
   <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
 </p>
@@ -55,7 +56,7 @@ I'm a **Full Stack developer with a strong focus on AI and backend engineering**
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" alt="Databases" />
 </p>
 
 ### AI, Computer Vision & Automation
@@ -82,7 +83,7 @@ I'm a **Full Stack developer with a strong focus on AI and backend engineering**
 
 ### Tools & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,vscode" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,arch,aws,postman,vscode" alt="Tools" />
 </p>
 
 
