@@ -1,5 +1,9 @@
-### You learn something every day if you pay attention.
+<div align="center">
 
+### 💡 *"You learn something every day if you pay attention."*
+**— Saad Muhammad Bin Ramzan**
+
+</div>
 
 
 <div align="center">
