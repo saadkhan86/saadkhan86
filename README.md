@@ -9,7 +9,7 @@
 <p>
   <a href="https://saadmuhammad.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/Saad-muhammad-bin-ramzan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:sk8613013@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:sk8613013@gmail.com"><img src="https://img.shields.io/badge/Email-823b00?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=saadkhan86&label=Profile+Views&color=38bdf8&style=for-the-badge" alt="Profile views" />
 </p>
 
