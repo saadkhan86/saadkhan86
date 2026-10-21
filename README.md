@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Saad+Muhammad+Bin+Ramzan+%F0%9F%91%8B;Full+Stack+%7C+AI+%26+Backend+Focused+Developer;Always+Eager+to+Learn+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Saad+Muhammad+Bin+Ramzan+%F0%9F%91%8B;Full+Stack+%7C+AI+%26+Backend+Focused+Developer;Always+Eager+to+Learn+New+Technologies" alt="Typing SVG" />
 
 <p>
   <a href="https://saadmuhammad.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -38,8 +38,14 @@ I'm a **Full Stack developer with a strong focus on AI and backend engineering**
 ## 🛠️ Tech Stack
 
 ### Languages
+**Primary**
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python" alt="Primary languages" />
+</p>
+
+**Familiar With**
+<p>
+  <img src="https://skillicons.dev/icons?i=php,c,cpp,java" alt="Familiar languages" />
 </p>
 
 ### Backend
@@ -52,6 +58,11 @@ I'm a **Full Stack developer with a strong focus on AI and backend engineering**
 ### Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css" alt="Frontend" />
+</p>
+
+### Mobile (Familiar With)
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,java" alt="Android" />
 </p>
 
 ### Databases
