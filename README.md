@@ -95,7 +95,7 @@ I'm a **Full Stack developer with a strong focus on AI and backend engineering**
 
 ### Tools & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,arch,aws,postman,vscode" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,arch,aws,vercel,postman,vscode" alt="Tools" />
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
 </p>
