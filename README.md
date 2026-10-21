@@ -65,10 +65,26 @@ I'm a **Full Stack developer with a strong focus on AI and backend engineering**
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 </p>
 
+### Cybersecurity (Interest & Learning)
+<p>
+  <img src="https://img.shields.io/badge/Cybersecurity-0F172A?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/Secure_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="Secure Authentication" />
+  <img src="https://img.shields.io/badge/API_Security-009688?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="API Security" />
+  <img src="https://img.shields.io/badge/Ethical_Hacking-D32F2F?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Ethical Hacking" />
+</p>
+
+### Payments & Integrations
+<p>
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/Whop-FF6243?style=for-the-badge" alt="Whop" />
+  <img src="https://img.shields.io/badge/Webhooks-0F172A?style=for-the-badge&logo=webhooks&logoColor=white" alt="Webhooks" />
+</p>
+
 ### Tools & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,vscode" alt="Tools" />
 </p>
+
 
 ---
 
