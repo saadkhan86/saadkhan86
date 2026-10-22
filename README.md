@@ -26,7 +26,7 @@
 
 I'm a **Full Stack developer with a strong focus on AI and backend engineering**, based in Pakistan 🇵🇰. I build scalable APIs, secure authentication systems, AI-driven automation, and computer vision pipelines, and I deliver production-ready solutions for freelance clients.
 
-- 🔭 Building backend systems with **Node.js, Express, MongoDB, FastAPI**
+- 🔭 Building backend systems with **Node.js, Nest.js, Express, Fastify, MongoDB, postgre-SQL, FastAPI**
 - 🤖 Working on **AI Backend System** (RBAC, CRM, Lead generation)
 - ⚙️ Automating workflows with **n8n**
 - 🌱 Constantly learning and exploring new technologies
